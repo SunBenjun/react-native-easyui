@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-easyui",
+    "slug": "react-native-easyui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-easyui"
+}
