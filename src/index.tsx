@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import React,{useState} from 'react';
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { Provider,Consumer } from "./components/provider"
-import Modal from './components/modal';
+import Confirm from './components/confirm';
 
 function A (){
   return <Consumer>{
@@ -52,7 +52,7 @@ export default function App() {
           //   name:"sun"
           // })
         }}><Text>show按钮</Text></TouchableOpacity>
-        <Modal visible={visible} onClose={()=>{console.warn("run");setVisible(false)}}><View style={{width:100,height:100,backgroundColor:"orange"}}><Text style={{color:"red"}}>弹窗</Text></View></Modal>
+        <Confirm visible={visible} onClose={()=>{setVisible(false)}}  btns={[{ text: '确定'},{ text: '取消' }]} selectStyle={{color:"red"}}/>
       </View>
       
     </Provider>
