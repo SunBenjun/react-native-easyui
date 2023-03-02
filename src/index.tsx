@@ -38,9 +38,8 @@ export default function App() {
             console.warn("============")
             // telePort(['errorAlert'], <View><Text>1111111111111111</Text></View>);
             Toast.show({
-              content: "This is a toast tips 3 !!!",
-              duration: 1,
-              stackable: true,
+              content: <Text>1111</Text>,
+              duration: 3000,
             });
             // setValue({
             //   theme:"white",

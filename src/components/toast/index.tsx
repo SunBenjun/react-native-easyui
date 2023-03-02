@@ -1,110 +1,62 @@
-import React from 'react'
-import Portal from '../portal'
-import ToastContainer from './toastContainer'
+import React from "react";
+import Portal from "../portal";
+import ToastContainer, { ToastProps } from "./toastContainer";
 
 interface IToastConfigurable {
-  duration?: number
-  onClose?: () => void
-  mask?: boolean
-  stackable?: boolean
+  duration?: number;
+  onClose?: () => void;
+  mask?: boolean;
+  stackable?: boolean;
 }
-
-interface IToastProps extends IToastConfigurable {
-  content: string | React.ReactNode
-}
-
-const SHORT = 3
 
 const defaultConfig: IToastConfigurable = {
-  duration: SHORT,
+  duration: 3000, // 毫秒
   onClose: () => {},
-  mask: true,
   stackable: true,
-}
+};
 
-let defaultProps = {
-  ...defaultConfig,
-}
-
-const toastKeyMap: { [key: number]: 1 } = {}
+const toastKeyMap: { [key: number]: 1 } = {};
 
 function remove(key: number) {
-  Portal.remove(key)
-  delete toastKeyMap[key]
+  Portal.remove(key);
+  delete toastKeyMap[key];
 }
 
 function removeAll() {
   Object.keys(toastKeyMap).forEach((_key) =>
-    Portal.remove(Number.parseInt(_key, 10)),
-  )
+    Portal.remove(Number.parseInt(_key, 10))
+  );
 }
 
-function notice(
-  content: string | IToastProps,
-  type: string,
-  duration = defaultProps.duration,
-  onClose = defaultProps.onClose,
-  mask = defaultProps.mask,
-) {
-  let props = {
-    ...defaultProps,
-    content: content as string | React.ReactNode,
-    type,
-    duration,
-    onClose,
-    mask,
-  }
+function notice(type: string, props: ToastProps) {
+  const noticeProps = {
+    duration: defaultConfig.duration,
+    onClose: defaultConfig.onClose,
+    stackable: defaultConfig.stackable,
+    ...props,
+  };
 
-  if (typeof content !== 'string') {
-    props = {
-      ...props,
-      ...content,
-    }
-  }
-
-  if (!props.stackable) {
-    removeAll()
+  if (!noticeProps.stackable) {
+    removeAll();
   }
 
   const key = Portal.add(
     <ToastContainer
-      content={props.content}
-      duration={props.duration}
-      onClose={props.onClose}
-      type={props.type}
-      mask={props.mask}
+      type={type}
+      {...noticeProps}
       onAnimationEnd={() => {
-        remove(key)
+        remove(key);
       }}
-    />,
-  )
-  toastKeyMap[key] = 1
-  return key
+    />
+  );
+  toastKeyMap[key] = 1;
+  return key;
 }
 
-
 export default {
-    SHORT,
-    LONG: 8,
-    defaultConfig,
-    getConfig: () => {
-      return { ...defaultProps }
-    },
-    config(props: IToastConfigurable) {
-      defaultProps = {
-        ...defaultProps,
-        ...props,
-      }
-    },
-    show(
-        props: string | IToastProps,
-        duration?: number,
-        onClose?: () => void,
-        mask?: boolean,
-    ) {
-        return notice(props, 'info', duration, onClose, mask)
-    },    
-    remove,
-    removeAll,
-  }
-  
+  show(props: ToastProps) {
+    return notice("show", { ...props });
+  },
+  remove,
+  removeAll,
+};
