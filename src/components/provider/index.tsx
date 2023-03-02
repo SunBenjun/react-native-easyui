@@ -1,27 +1,21 @@
-import { createContext } from "react";
+import React,{ createContext } from "react";
 import Portal from "../portal";
  
 const Content = createContext(null);
 
 const { Provider } = Content;
 
-export default (props) => {
-  const { children,theme } = props;
+interface providerProps {
+  children: React.ReactNode;
+  value:any;
+  setValue:any;
+}
+
+export default (props:providerProps) => {
+  const { children, value, setValue } = props;
   return (
-    <Provider value={theme}>
+    <Provider value={{value, setValue}}>
       <Portal.Host>{children}</Portal.Host>
     </Provider>
   );
 };
-
-// export default class Provider extends React.Component<ProviderProps> {
-//     render() {
-//       return (
-//         <LocaleProvider locale={this.props.locale}>
-//           <ThemeProvider value={this.props.theme}>
-//             <Portal.Host>{this.props.children}</Portal.Host>
-//           </ThemeProvider>
-//         </LocaleProvider>
-//       )
-//     }
-//   }
