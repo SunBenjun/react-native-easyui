@@ -3,12 +3,16 @@ import Portal from "../portal";
  
 const Content = createContext(null);
 
-const { Provider } = Content;
+const { Provider,Consumer } = Content;
 
 interface providerProps {
   children: React.ReactNode;
   value:any;
   setValue:any;
+}
+
+export const {
+  Consumer
 }
 
 export default (props:providerProps) => {
