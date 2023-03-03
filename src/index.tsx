@@ -2,64 +2,53 @@ import { StatusBar } from "expo-status-bar";
 import React, { useState } from "react";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import Provider from "./components/provider";
-import Confirm from "./components/confirm";
-import Toast from "./components/toast";
- 
+import SwipeAction from "./components/swiper"
 
-
-const  B = (props) => {
-  return (
-        <View>
-          <TouchableOpacity onPress={() => {
-            // teleport(['errorAlert'], <View><Text>1111111111111111</Text></View>);
-          }}>
-            <Text>按钮</Text>
-          </TouchableOpacity>
-        </View>
- 
- 
-  )
-}
- 
- 
 export default function App() {
-  const [visible, setVisible] = useState(false);
-  
+  const right = [
+    {
+      text: 'More',
+      onPress: () => console.log('more'),
+      backgroundColor: 'orange',
+      color: 'white',
+    },
+    {
+      text: 'Delete',
+      onPress: () => console.log('delete'),
+      backgroundColor: 'red',
+      color: 'white',
+    },
+  ]
+  const left = [
+    {
+      text: 'Read',
+      onPress: () => console.log('read'),
+      backgroundColor: 'blue',
+      color: 'white',
+    },
+    {
+      text: 'Reply',
+      onPress: () => console.log('reply'),
+      backgroundColor: 'green',
+      color: 'white',
+    },
+  ]
   return (
     <Provider>
-  
       <View style={styles.container}>
-        <Text>这是一个!</Text>
-     
-
         <StatusBar style="auto" />
-        <TouchableOpacity
-          onPress={() => {
-            console.warn("============")
-            // telePort(['errorAlert'], <View><Text>1111111111111111</Text></View>);
-            Toast.show({
-              content: <Text>1111</Text>,
-              duration: 3000,
-            });
-            // setValue({
-            //   theme:"white",
-            //   name:"sun"
-            // })
-          }}
-        >
-          <Text>show按钮</Text>
-        </TouchableOpacity>
-        {/* <ToastContainer/> */}
-        <Confirm
-          visible={visible}
-          onClose={() => {
-            setVisible(false);
-          }}
-          btns={[{ text: "确定" }, { text: "取消" }]}
-          selectStyle={{ color: "red" }}
-        />
+        <SwipeAction
+            right={right}
+            left={left}
+              onSwipeableOpen={() => console.log('open')}
+              onSwipeableClose={() => console.log('close')}>
+              <View style={{backgroundColor:"red"}}><Text>1</Text></View>
+              <View style={{backgroundColor:"blue"}}><Text>2</Text></View>
+              <View style={{backgroundColor:"yellow"}}><Text>3</Text></View>
+              <View style={{backgroundColor:"orange"}}><Text>4</Text></View>
+          </SwipeAction>
+
       </View>
-  
     </Provider>
  
   );
