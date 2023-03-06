@@ -1,0 +1,1853 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "node_modules/react-native-gesture-handler/android/build.gradle",
+      "sha1": "000b0ee78b3890306972fe8d3a504c7c99a59e64"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/common/src/main/java/com/swmansion/common/GestureHandlerStateManager.kt",
+      "sha1": "96a95a072de1830396b0e58f8383bfe54aa68361"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/gradle.properties",
+      "sha1": "75573d99ba3b62d492584352e5246dd0640ddd1b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/noreanimated/src/main/java/com/swmansion/gesturehandler/ReanimatedEventDispatcher.kt",
+      "sha1": "87372b100d30a6c1ac001db2b812ff688dfd9e80"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/fabric/java/com/swmansion/gesturehandler/ReactContextExtensions.kt",
+      "sha1": "5f7fedf2964318a210804f4bbb2aa527c074d243"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/fabric/java/com/swmansion/gesturehandler/RNGestureHandlerComponentsRegistry.java",
+      "sha1": "605f2dc29d74fa2586e49089770443e2f537ce47"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/AndroidManifest.xml",
+      "sha1": "8ddf051aaf7cdb41ccafd89ec49da1ff937cb0de"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/FlingGestureHandler.kt",
+      "sha1": "e3e2db8638aecfa1077e125a70b76ec26d678c56"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/GestureHandler.kt",
+      "sha1": "51c537b5d0e6dd0ee13f54f0dc50f0dc52cffc4c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/GestureHandlerInteractionController.kt",
+      "sha1": "e9f2abec34dd97fd9fe8d1595783746128249698"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/GestureHandlerOrchestrator.kt",
+      "sha1": "30782aee24b5e421929f06d4d94e92e2eb2d9cdc"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/GestureHandlerRegistry.kt",
+      "sha1": "75e84110bc0cd8f772bfcb4dfc393943f7b57ce4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/GestureUtils.kt",
+      "sha1": "e4cfe33f82c2f4b677269948e7f4b54f06ee8fc3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/LongPressGestureHandler.kt",
+      "sha1": "e39ff4c043b13d13fd62ed0bad4d7664e70de38b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/ManualGestureHandler.kt",
+      "sha1": "6ae0a8b68366af51a32e75b32d5171cedeca4cf8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/NativeViewGestureHandler.kt",
+      "sha1": "a1640780d8dfa359b2ca9d75300a194596d4b560"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/OnTouchEventListener.kt",
+      "sha1": "be5a8a330c675cf9686aab2b405090735cfce1cf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/PanGestureHandler.kt",
+      "sha1": "45f06d143a9286cfd32aae01895f393851e99460"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/PinchGestureHandler.kt",
+      "sha1": "5e4a2972762b18fbefae57c639bed19b332af1f2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/PointerEventsConfig.kt",
+      "sha1": "ddbbb6e113cde4bffae59a04845fd04d5bd04d08"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/RotationGestureDetector.kt",
+      "sha1": "da2b60fc65c45be84c0e4c1cc3dbdb1fef9fbeca"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/RotationGestureHandler.kt",
+      "sha1": "02e24d5b6fb8400f43e5509533aa53934b3e16ec"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/ScaleGestureDetector.java",
+      "sha1": "605f693c810bb2cf3d135f2c248f5482a9c4cf9d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/TapGestureHandler.kt",
+      "sha1": "fd4780a4fbb02e13b91bf817b06a70cede58bfc3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/core/ViewConfigurationHelper.kt",
+      "sha1": "7ffa3231e3940caa48dac67e73af71c0402afa17"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/Extensions.kt",
+      "sha1": "579101491357a8ad3aa0889df49ebabb5f30e3d7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerButtonViewManager.kt",
+      "sha1": "ebb2a751a719346b535ea8da17e7b0674e17c223"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerEnabledRootView.kt",
+      "sha1": "332be0654802d1a1132bb0ef1daedc63583f0e15"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerEvent.kt",
+      "sha1": "4209f1df4278ca2fe65d6877e47ad58917cf9068"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerEventDataExtractor.kt",
+      "sha1": "2a5953471e43663fba178e8bf37dca567c232855"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerInteractionManager.kt",
+      "sha1": "eed2d1b5805bd54f283a78e3876e7b50d15e45f0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerModule.kt",
+      "sha1": "919b38dff4c89cd8bc382432ec3dc9da2fe65d41"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerRegistry.kt",
+      "sha1": "de5e52babff3aefc6b3f802f02947855d5844ba4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerRootHelper.kt",
+      "sha1": "3b10c606380d06609b15f9d42be681bc5395d45b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerRootInterface.kt",
+      "sha1": "29b0b68afdb8e317717a88b316ded5a0226fa289"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerRootView.kt",
+      "sha1": "f9cfa97bb1871764241209445e033bb7013416fb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerRootViewManager.kt",
+      "sha1": "69b0191a93510a15ada8e9ea682f6dd596ab72e6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerStateChangeEvent.kt",
+      "sha1": "9abb511b70c8774d1a5057719ed977d5addf1abe"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNGestureHandlerTouchEvent.kt",
+      "sha1": "eba48c63dc9f89898992af46c43adc58d5b8e8d6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/react/RNViewConfigurationHelper.kt",
+      "sha1": "14a6860cdd9e77a158da7bdae6a9875c5d401b90"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/java/com/swmansion/gesturehandler/RNGestureHandlerPackage.kt",
+      "sha1": "cf21dd09202ab382b8c8ed2db120bcdf7bba72a8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/jni/CMakeLists.txt",
+      "sha1": "c478400dca0f4e19f38804d794638719ae7a4cb4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/main/jni/cpp-adapter.cpp",
+      "sha1": "b735d89454c8053fc03dbd06b0faeeff7b067ec4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/paper/java/com/facebook/react/viewmanagers/RNGestureHandlerButtonManagerDelegate.java",
+      "sha1": "4f38c5ee4963baff1643c48b9854f57058a52895"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/paper/java/com/facebook/react/viewmanagers/RNGestureHandlerButtonManagerInterface.java",
+      "sha1": "c6265a76cc3ee9dbb5ef5175584ef8e39a19b290"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/paper/java/com/facebook/react/viewmanagers/RNGestureHandlerRootViewManagerDelegate.java",
+      "sha1": "63800e2a3708287b94a5116738098f686abaf61e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/android/src/paper/java/com/facebook/react/viewmanagers/RNGestureHandlerRootViewManagerInterface.java",
+      "sha1": "da9e7a666558a7e8dfae96fee562160e7518574c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/DrawerLayout/package.json",
+      "sha1": "486afdaa45600a5841371a3d439a1561f7f5eaaf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNFlingHandler.h",
+      "sha1": "7dae388c6cb6e5b4c3320f91e65ded78959add65"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNFlingHandler.m",
+      "sha1": "cdd677678acbb15d2d75c1d320f31ab1af995271"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNForceTouchHandler.h",
+      "sha1": "d941139d6e7ad6cfa33d9e821d2fa384d645b835"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNForceTouchHandler.m",
+      "sha1": "7af873aa0122a522b9fad799efbb7db7b01c4e52"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNLongPressHandler.h",
+      "sha1": "0fb201831a600b17bb7d6ff2e57d9d68c7ac9ed6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNLongPressHandler.m",
+      "sha1": "6cad74b7f6466175aecfc9abe78e90a16175e958"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNManualHandler.h",
+      "sha1": "1fe30942c95dd7cd89061cd6d46fc671f33b01fc"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNManualHandler.m",
+      "sha1": "c6b66792eb53b4eb9cc9508e90d2fd951612a848"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.h",
+      "sha1": "cce3054c3137e4f4c5975a0a0dee8e46e222d4d7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.mm",
+      "sha1": "853bda4e1434d089643148732518e115f78edaef"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNPanHandler.h",
+      "sha1": "256e8120d033254a7905999dd872ac9dde821cb6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNPanHandler.m",
+      "sha1": "80e16a4e7ed2f856d91b9b608f38d2cae1c261a9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNPinchHandler.h",
+      "sha1": "67f21b227d4a0f3db4411486a0fb9119b212a588"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNPinchHandler.m",
+      "sha1": "78818254b4c178ab4c09a81b5b2cc3620e57cef6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNRotationHandler.h",
+      "sha1": "ec098c80c35ce7bbff298af9f7b65978e8a94409"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNRotationHandler.m",
+      "sha1": "a4620964f5d742c690c4ff86120191867cce541b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNTapHandler.h",
+      "sha1": "8a9b12d4d8e4fdd5b5f7916e6f79d84db124d1dd"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/Handlers/RNTapHandler.m",
+      "sha1": "377a614b1f483990a630ae76d6f03b5ec690381f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandler.h",
+      "sha1": "ca0ed4db0c3a98fa3e01df33bc80c12237abfbd9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandler.m",
+      "sha1": "9d85a9b6b1f4ec5e64f9c918f33c542b19c894f0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandler.xcodeproj/project.pbxproj",
+      "sha1": "c0f1feb58f88feab55f5681ca714e5eb5be3b99c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandler.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+      "sha1": "df5fe739b8b3ab69cf1a32a8881c48a1662e0340"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerActionType.h",
+      "sha1": "d305d8e36ff20ed691c87ae23e459fe2428a58e0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerButton.h",
+      "sha1": "db82b10a31be53238a53d283e2b07a1876d47889"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerButton.m",
+      "sha1": "9e50c6ce0f26e2bfefeb98ed1a20ee09dcb56d61"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerButtonComponentView.h",
+      "sha1": "9bb808b1fb89920ccbbed57c44df7dbb8b025334"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerButtonComponentView.mm",
+      "sha1": "f529e7d4df60e9e4f9830023d07598f9afdc9793"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerButtonManager.h",
+      "sha1": "01a20ee64e9ad3a3d879804620d7a64d6712001a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerButtonManager.m",
+      "sha1": "affb52f0d237bd8855bdaa544036bde350f497c7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h",
+      "sha1": "a426bf07d117e8ea2553da27a8384ad18fdfcadf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h",
+      "sha1": "05817e33a4e049b16fa1c474788c24360b924d0b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.m",
+      "sha1": "812f95ded496c041f1770c0506a1e41a1a79d8ea"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.h",
+      "sha1": "6139c65bea1cc4bb463a8423f89b293487022fc9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.mm",
+      "sha1": "bb1cc93a58f4608d9bc9f4b0897aad87c97ca93a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.h",
+      "sha1": "990be04a224cdf61d310aae40b5a67ef09184a3c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.mm",
+      "sha1": "3a4b784442eb5122d3823c04853b114ae8f493e8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerPointerTracker.h",
+      "sha1": "55b8b42529f774f5636944ff6d523ce13caaa075"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerPointerTracker.m",
+      "sha1": "275bf3a8f14c264f5eafe8827e9a9d90d07fc62c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerRegistry.h",
+      "sha1": "9e250364eaf4f9c627a795e2c8a50abbfb33a35f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerRegistry.m",
+      "sha1": "0ef7343663047d0cd3edb02481926503b20a1ea9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerRootViewComponentView.mm",
+      "sha1": "48c8b256e083e88b6afa89064c0544fc5c444392"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h",
+      "sha1": "a4abf9b640af32200a0fe764dfd63c4d7adc0aaf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGestureHandlerStateManager.h",
+      "sha1": "d178f4071112aec2ab251833ea4f14c121c871ff"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNGHTouchEventType.h",
+      "sha1": "d74653ccabfbe3f08ead0bb3bdcb02dfa84fdab9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNManualActivationRecognizer.h",
+      "sha1": "fbd99da9bfc37b2f7a0ee73c47a40f5122ae0d5c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNManualActivationRecognizer.m",
+      "sha1": "c7c2967bcdbeda9c7a30cc4a8a35d65928e1c987"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNRootViewGestureRecognizer.h",
+      "sha1": "aa5f9b74539182a2f52be48d701dce227d7b09f9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/ios/RNRootViewGestureRecognizer.m",
+      "sha1": "79492660c6be0e9e1c99b6d63f06ad42982c8ad3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/jestSetup.js",
+      "sha1": "7cbff6a948fe889bee663dbc7af5479532107b7c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/ActionType.js",
+      "sha1": "cd751896491d15a5c9d0fe9acc2f56963b6d7bf4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/ActionType.js.map",
+      "sha1": "c13b09bd411fb9fe19817b68f74e95ccaab7709e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/DrawerLayout.js",
+      "sha1": "d4f2b129466724f06bb0d16b4d9326e1c433b1d4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/DrawerLayout.js.map",
+      "sha1": "089406d84deead6dd6ee7090ca422d3a429d5fd3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureButtons.js",
+      "sha1": "372eceaacf26b8ac3c5ada69040a613720b2c9c9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureButtons.js.map",
+      "sha1": "fb6f8b32b7b679b33b36d52adb6b484689dc8300"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureComponents.js",
+      "sha1": "048a1c24bd0b834f63366a17c876097247dd68bf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureComponents.js.map",
+      "sha1": "09bd059a10766c798dfce5a1b3a17f3bd0294a37"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureComponents.web.js",
+      "sha1": "b98ee50f1aff631c441900d535c32db2403dc053"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureComponents.web.js.map",
+      "sha1": "335bf13ea8fd981f131f933a5a0736dd7a5bf7b3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureHandlerButton.js",
+      "sha1": "d8a1f4262e972d6fcf9567cd51d72eb81f31168d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureHandlerButton.js.map",
+      "sha1": "478795e8de4b34b45b449b2c9a78d6052b143b34"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureHandlerButton.web.js",
+      "sha1": "0bd15389a1876aff6cd0e83fd77b8e792f2d9167"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/GestureHandlerButton.web.js.map",
+      "sha1": "76557060726edd5303ca0c0d52b1e75e27fa21aa"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/Swipeable.js",
+      "sha1": "74e0441839378d6ff90c5bb2c787a0e9388b423b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/Swipeable.js.map",
+      "sha1": "6b24146e1bb1f1072f8044546f4efc7ec67f96a8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/GenericTouchable.js",
+      "sha1": "e949900d844ed48bb58689ec6d53b6039ff0b7cf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/GenericTouchable.js.map",
+      "sha1": "4b40eec0627cbe88ee64740f027b205c50b99ee4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/index.js",
+      "sha1": "750e19fb13285f1ea87066009c155a46fbd9f104"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/index.js.map",
+      "sha1": "9392a0e21ce2b3de268d6ebd0808568e604dc526"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableHighlight.js",
+      "sha1": "53434e694a141bb753793f2cd7e0326513b8bfc2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableHighlight.js.map",
+      "sha1": "81a7ced9f510f3363ca1d2264b6ed567f7b27298"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableNativeFeedback.android.js",
+      "sha1": "f8eabfdac3a31b7b3ee75c65a3a9aed6707fcc48"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableNativeFeedback.android.js.map",
+      "sha1": "603b3469564bfa57851781bf2fd82326ee3f7cbc"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableNativeFeedback.js",
+      "sha1": "fac239d89f0d76e0dea99cf0408b3691b4e8e4a5"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableNativeFeedback.js.map",
+      "sha1": "410cc6657ad0ee8862c678bfed9d5329bbbc6b10"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableOpacity.js",
+      "sha1": "ebbd31ca260e039d2af28da0248f0c18021b26bf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableOpacity.js.map",
+      "sha1": "5a4906b74024c064b3d84a3552cd2c881f7054a7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableWithoutFeedback.js",
+      "sha1": "b57cfc3f186206cad0ab64ddb1490f2eb2769613"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/components/touchables/TouchableWithoutFeedback.js.map",
+      "sha1": "4f638c9894f4a27bc448e834494efe375afa8d13"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/Directions.js",
+      "sha1": "4bed0ffa26229ecafa3ff21f7f62e5327b341538"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/Directions.js.map",
+      "sha1": "946d35cd4888df80224ee386bf078a157d406dc2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/EnableExperimentalWebImplementation.js",
+      "sha1": "f9aefccdbb9ae6fcbcea2e8acb19e878dd0503a4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/EnableExperimentalWebImplementation.js.map",
+      "sha1": "73a7cd8be76dc1d562db4f147cbeb86a71b81f4f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/fabric/RNGestureHandlerButtonNativeComponent.js",
+      "sha1": "2f570da5bbe546515a190441caa2babdb7a7d9e1"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/fabric/RNGestureHandlerButtonNativeComponent.js.map",
+      "sha1": "f46dcea738d84cd0f64e8101fcb0d6b8701c54f8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/fabric/RNGestureHandlerRootViewNativeComponent.js",
+      "sha1": "8a0e255985240ad523baf05cca95e11b08755290"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/fabric/RNGestureHandlerRootViewNativeComponent.js.map",
+      "sha1": "900117454b3fde2b8a347c6a264fdf7fa53456f4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/gestureHandlerRootHOC.js",
+      "sha1": "4847b8dbdd9a328352475546c3c5db5f2eff5a24"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/gestureHandlerRootHOC.js.map",
+      "sha1": "934cee9378e870a7b1e1e05f0252af6f90b721c5"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/GestureHandlerRootView.android.js",
+      "sha1": "66736d33da6867f6bd31c2ac21c1db39c93a90c8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/GestureHandlerRootView.android.js.map",
+      "sha1": "2cd7a3a14787daef5d7e43e834a3074888712dea"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/GestureHandlerRootView.js",
+      "sha1": "b63af6875e1b2de9ad759f8c88e0c77d1f016759"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/GestureHandlerRootView.js.map",
+      "sha1": "50cdd9bfb2a388a878c4485f070543ffc8c4edf4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/GestureHandlerRootView.web.js",
+      "sha1": "6822b3a79385397a3a3d79a16da850fb5091ca43"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/GestureHandlerRootView.web.js.map",
+      "sha1": "623f415e9235cae8bbd3594ff1064e91f9be1fcb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/getShadowNodeFromRef.js",
+      "sha1": "c819a04aa5256e4a330f52dd79b0000308d2dd80"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/getShadowNodeFromRef.js.map",
+      "sha1": "16015591d44e64d513c17d4fca97035dcb2b319f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/getShadowNodeFromRef.web.js",
+      "sha1": "7062342c6f50a2ca65fbd8a7d33d4f5fc01528ae"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/getShadowNodeFromRef.web.js.map",
+      "sha1": "00410f4f60fec6fd0ad6e10de640ad2c70ba1745"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/createHandler.js",
+      "sha1": "5deae609800a6ef2444fd5a430daeb9611a49c9b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/createHandler.js.map",
+      "sha1": "caebe670390850f91f2b16cf927c23ba61e98da9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/createNativeWrapper.js",
+      "sha1": "901cc50f38245032747451791aec483fd684616b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/createNativeWrapper.js.map",
+      "sha1": "841dfe2353ac9719b64b49c9c187293e49a0fed7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/FlingGestureHandler.js",
+      "sha1": "cf74dd89a0cd704fbe2d2e8f4d2459b0168123a7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/FlingGestureHandler.js.map",
+      "sha1": "c2a141c7a1dba35ffdf00ab0f7f9b188b2b25d2d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/ForceTouchGestureHandler.js",
+      "sha1": "ffb3bd74a8205edf4a8f0fe0155a1bd1189030de"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/ForceTouchGestureHandler.js.map",
+      "sha1": "e8d651fab92296915750aebb79b06e7661775cb7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestureHandlerCommon.js",
+      "sha1": "f83cb58f974b3b7d29682a039ad2baa941ff43f4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestureHandlerCommon.js.map",
+      "sha1": "d7a4c68f387602b6512457d1065a89a3337203cd"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestureHandlerTypesCompat.js",
+      "sha1": "f00cea606da9d1039401bacdb315dd7b42b1b43d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestureHandlerTypesCompat.js.map",
+      "sha1": "0c4884d0f4bbb3d48f108ffd28f8b9ce4df747b7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/eventReceiver.js",
+      "sha1": "6621768fa979f654c6fe6898bc88902b963bd3a6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/eventReceiver.js.map",
+      "sha1": "47de3ef9e2ce3b733d9fcb64fbd3da951b8044cb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/flingGesture.js",
+      "sha1": "058fc8d91f23f93ee67474e2235db2ce760b0283"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/flingGesture.js.map",
+      "sha1": "608fc6d4a6a08e1f4c1edc3042dbc4f158e9046f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/forceTouchGesture.js",
+      "sha1": "b961dd3d171d6f76d7072fc5391f0bc3083a41b8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/forceTouchGesture.js.map",
+      "sha1": "88eec92271d34f9657fef3d583c8195abd85945e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gesture.js",
+      "sha1": "0b527d5f3dc619f6552983cb826449e450768917"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gesture.js.map",
+      "sha1": "c87f661ab503bfd611118c7307d6491625381e62"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureComposition.js",
+      "sha1": "e6a3f03429feb995ea997fcceae6556662069d83"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureComposition.js.map",
+      "sha1": "2dd6bced3f13496b5f942716a6f5cbfe9dd9bb75"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector.js",
+      "sha1": "2d294d6aea28f1947b6acbf48a12852f6b3cc5fb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/GestureDetector.js.map",
+      "sha1": "2dc92d468f5cfacc2bdac5c1945efc7541c7e12c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureObjects.js",
+      "sha1": "434cdb5ae1bc7a1c466576e6f2f672b30d20c3f7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureObjects.js.map",
+      "sha1": "27e39fe9e4b651f09c8f876f6cd2e3e3fd541f52"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureStateManager.js",
+      "sha1": "1446564887fe5cadd326bb1a285163ed79ae1e7c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureStateManager.js.map",
+      "sha1": "f4a9e9f9ba8742b5aa04e1743128d97adbfee542"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureStateManager.web.js",
+      "sha1": "47a7b38e03f2e83c3e22a17feb4a32c24c6938fe"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/gestureStateManager.web.js.map",
+      "sha1": "2b9ccddc39ac7d27b15917e34133e0ff7b12343c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/longPressGesture.js",
+      "sha1": "c647dbfc68f8d0deda32bb7cca2c1f2b5c419d82"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/longPressGesture.js.map",
+      "sha1": "ab9b1abba17cbc9a1aec96241cdd7b9cf9a31117"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/manualGesture.js",
+      "sha1": "a4cbf3f200fef6a9ac7d07af5c15cd5187bb345d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/manualGesture.js.map",
+      "sha1": "2b7a930e4919fd784d395d2438a99ca785a0feaf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/nativeGesture.js",
+      "sha1": "3dceaf51a9c366831898f2222c2467a492a656bf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/nativeGesture.js.map",
+      "sha1": "37ed5134adcf43f11c6bb3a6af950bd4d17f80d4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/panGesture.js",
+      "sha1": "69a44fa8f7e1c34f2fa50b1ec1474777763d7e12"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/panGesture.js.map",
+      "sha1": "ed6755c09ecb3ea7fecf7f8bddca8da187779f31"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/pinchGesture.js",
+      "sha1": "374bc18898068a111d4f03f43171a537d01d08c4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/pinchGesture.js.map",
+      "sha1": "048d4ffb1651057d9f6411e51d1305821a6311f9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/reanimatedWrapper.js",
+      "sha1": "2266fb2a80f262643a704cd0a8adf0614522b943"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/reanimatedWrapper.js.map",
+      "sha1": "547db0041df5ec607252b75c1b00a320fc585248"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/rotationGesture.js",
+      "sha1": "98f14ac3e5964fca359306a0fd19cb79574187b3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/rotationGesture.js.map",
+      "sha1": "9d3f871c168c36d0b0f52ff3341b6bfec4001bc0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/tapGesture.js",
+      "sha1": "67005e121a71bd16107a5e60a4d145cface217e5"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/gestures/tapGesture.js.map",
+      "sha1": "f5816fbc3f396fd29c572fd59dba7442495a5cca"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/handlersRegistry.js",
+      "sha1": "b3a163aac48262df93440633daafbb11cb41b398"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/handlersRegistry.js.map",
+      "sha1": "e70841c72900e36b2da88710a9ef867140904482"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/LongPressGestureHandler.js",
+      "sha1": "f297754638b2cb305a8ea524e5bbbed09567c7a4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/LongPressGestureHandler.js.map",
+      "sha1": "f979c07df0f0b1c7e350ba98115d0bc94c2febce"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/NativeViewGestureHandler.js",
+      "sha1": "271af8efccba70411ce3948c87861660ef04b9f4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/NativeViewGestureHandler.js.map",
+      "sha1": "6e7f64fcac586145e58a6df48cc6702bb86efe94"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/PanGestureHandler.js",
+      "sha1": "4a759af3811378e1ffa5e1e4e453d6b301800e7d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/PanGestureHandler.js.map",
+      "sha1": "f8975e2cec58a1484eb039a5c19beabef70e5444"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/PinchGestureHandler.js",
+      "sha1": "9090a46795b260761d9361a8c8146d91b4bddd87"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/PinchGestureHandler.js.map",
+      "sha1": "8d0b67ae68266d1b957489ab57b566f2c7e21fa9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/PressabilityDebugView.js",
+      "sha1": "0dc0f938425a4eef98ec844c76159f58e4f36867"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/PressabilityDebugView.js.map",
+      "sha1": "cb0ae13fb50ae57630c6cdd6140a544a5effd9a7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/PressabilityDebugView.web.js",
+      "sha1": "8a8654d69381b47471ba0604ac89a7f17393a63e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/PressabilityDebugView.web.js.map",
+      "sha1": "667bd5d5f0fdacb57339de44d91323d52fc3e48a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/RotationGestureHandler.js",
+      "sha1": "25bb46cf9d5e4b0a75d2647842e518020626eee4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/RotationGestureHandler.js.map",
+      "sha1": "fb32f2dda5ee3d9292fd2dcbc039b135fffc721d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/TapGestureHandler.js",
+      "sha1": "93c730a029e7e7d021f73eaf9f33cd5347364588"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/handlers/TapGestureHandler.js.map",
+      "sha1": "e853ee3c26b9653b3283adc9e43c14d7594c7f68"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/init.js",
+      "sha1": "6686ae0ea381aa180dd80247958b43e7aa96f21a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/init.js.map",
+      "sha1": "4a6ad8b84dd7b2d3c9f132486d2cc5f525debaa7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/jestUtils/jestUtils.js",
+      "sha1": "39a06deacf9663f4e0871968bce99307dc3be727"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/jestUtils/jestUtils.js.map",
+      "sha1": "3b980d1b94d4919bfb9bf3a1ed345f2ed208b42a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/mocks.js",
+      "sha1": "c86f3fc67acea46767b0a27f0f1086087af0eed8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/mocks.js.map",
+      "sha1": "1c248bbd539fe9edace71bf10fc7b3e9fd445dac"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/PlatformConstants.js",
+      "sha1": "0d7248e039597de7bce009877cf73bfa83b471a5"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/PlatformConstants.js.map",
+      "sha1": "3094438d566c768613612340a5252fc001be8dc8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/PlatformConstants.web.js",
+      "sha1": "d5d53af3406566e01f8650abbeedbc9abddb9706"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/PlatformConstants.web.js.map",
+      "sha1": "5dfe82fe317a54d5a1b7efdee86459e2f9cbc173"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNGestureHandlerModule.js",
+      "sha1": "1f47746b6b7586e3fab3f73b3183dc540ad4f389"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNGestureHandlerModule.js.map",
+      "sha1": "c282a580afdb4296bbbf35571daae67c04fa32ca"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNGestureHandlerModule.macos.js",
+      "sha1": "77197830eaed7267b20a93bd5929a845e3c8c382"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNGestureHandlerModule.macos.js.map",
+      "sha1": "07215d42f94f6edd50085c8918cef49782a55862"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNGestureHandlerModule.web.js",
+      "sha1": "f6e3bd6abe2db3cbf756d7dd7626b9109cfe99c0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNGestureHandlerModule.web.js.map",
+      "sha1": "bf32272fe0305c719877788f13dd4e44f9f80290"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNGestureHandlerModule.windows.js",
+      "sha1": "6fbabd13af6e9215254fab5e8033ac25e7175e2f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNGestureHandlerModule.windows.js.map",
+      "sha1": "fbbf4b4b3056930aeb7627227294917f86958cbe"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNRenderer.js",
+      "sha1": "b593fe795757cba42d76a16d97b0697d80149a20"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNRenderer.js.map",
+      "sha1": "32e05d0f3a207907bb05a750d1fa0a663381da92"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNRenderer.web.js",
+      "sha1": "89ecccf44207ab0bf15ee7dfdf09649a36fb9e3f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/RNRenderer.web.js.map",
+      "sha1": "8e719a702d55cddddfc3221f46f6e5090fdc16a6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/State.js",
+      "sha1": "7923608559c649cf41b18df120825c2d4dd84f01"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/State.js.map",
+      "sha1": "031c0fcd33577ee673dccbaf21cbb9485c2aca93"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/TouchEventType.js",
+      "sha1": "38325ee520239522fc2a1c910dc683481efbbf05"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/TouchEventType.js.map",
+      "sha1": "e7673061a4273e22f2f00f48fb5d08bfe36aecb1"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/typeUtils.js",
+      "sha1": "39774cd0822ebc26a4cf4035d13ed5b00beabaa9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/typeUtils.js.map",
+      "sha1": "0c4884d0f4bbb3d48f108ffd28f8b9ce4df747b7"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/utils.js",
+      "sha1": "018faa774e8b0f7dd7403eafef6a0ae3f38637a8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/utils.js.map",
+      "sha1": "520a05e66058bba63570ef7e0fc3ad5f2ee074fb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/constants.js",
+      "sha1": "c92e8a97513532db33571e5f99cad729655e394b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/constants.js.map",
+      "sha1": "c7ccd4e931643d1963a2c7ac6790d0ed0f9a8170"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/RotationGestureDetector.js",
+      "sha1": "fd0683b039ef501b236cffd3509a8ea0128ffeff"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/RotationGestureDetector.js.map",
+      "sha1": "26cf6c91c41f457d2e4fe01be07d7e19c648cbfd"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/ScaleGestureDetector.js",
+      "sha1": "f457ec24217c7a87e64915b8e9f9ccf9029002d3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/detectors/ScaleGestureDetector.js.map",
+      "sha1": "3e565a1f6b80939349fdff65190cfd32ade06816"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/GestureHandler.js",
+      "sha1": "9b9cd9a448dfe5e2b0c24cdd6d71987fa937603c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/GestureHandler.js.map",
+      "sha1": "20596a0e408dd73fc33a76e1b0c075488bd466ac"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/ManualGestureHandler.js",
+      "sha1": "92b8643f29a68db8a2ffb9196b22f724cec2bef8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/handlers/ManualGestureHandler.js.map",
+      "sha1": "7a70a23d9fcdf76a3093e976f11fc8d17aaaa142"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/interfaces.js",
+      "sha1": "67126ec640050e307ef9a8088165d6d358a2a0ff"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/interfaces.js.map",
+      "sha1": "244b427ce77eca2282789fa9a9deec63f1b1ca2e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/EventManager.js",
+      "sha1": "206fcdee30b5da09c6c328e917a0fe2908bc9aa1"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/EventManager.js.map",
+      "sha1": "232be12903b2cdcc9c9d97040978a73a739a9bb3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/GestureHandlerOrchestrator.js",
+      "sha1": "91162d6b1bc84d9fcab743a235617ceacf79cc2d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/GestureHandlerOrchestrator.js.map",
+      "sha1": "9f9fdb800ece94446a69ceed442de17aced43329"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/InteractionManager.js",
+      "sha1": "88443325307231dba91b4faf898722335f901881"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/InteractionManager.js.map",
+      "sha1": "b9b7411028296db822d998e199fea3e9680f65e9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/NodeManager.js",
+      "sha1": "01b2e4bff7eb45c812705737d36474eb85cb3d8a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/NodeManager.js.map",
+      "sha1": "46be01000494c9f713c7da11a6b36e5bfd9849f9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerEventManager.js",
+      "sha1": "3cb1416bde358149eeadb1a290e2d2c6753faccf"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerEventManager.js.map",
+      "sha1": "5bfd43f23abde89c08a7f91d44f559e11bc3f048"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerTracker.js",
+      "sha1": "17bf52a55203e1e74704fdd1a6c6dcba5734e1a9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/PointerTracker.js.map",
+      "sha1": "6fc772b145708f7b4d54d25cb13dec5d56e0eced"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/TouchEventManager.js",
+      "sha1": "7fbec74e41a30425c2a69c944ea8bb329d7fbaf3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web/tools/TouchEventManager.js.map",
+      "sha1": "9223143a4b73e7f6132050a8102fee3999186f5c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/DiscreteGestureHandler.js",
+      "sha1": "83aaa07675533cc3031e5302b1856cc330929671"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/DiscreteGestureHandler.js.map",
+      "sha1": "0d25b86c6f3c014a5e15f44a96b9105e8bba7726"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/DraggingGestureHandler.js",
+      "sha1": "c325f63e378ed104f98c27557a9f8dc022fbd0cb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/DraggingGestureHandler.js.map",
+      "sha1": "89732f03ad6b3ac32abd59c9a53f8a8d5652e2f3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/Errors.js",
+      "sha1": "df97268e109ccaca950af0f6c0845370723ff1c1"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/Errors.js.map",
+      "sha1": "5ce13755989cd9ba83fd93bae2b01632761f99bb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/IndiscreteGestureHandler.js",
+      "sha1": "8bca91f9f84e625676d4ea7ee2cff5c2d9598440"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/IndiscreteGestureHandler.js.map",
+      "sha1": "8efb59a7fb3bd38f549d156fb05732e583ba4d5b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/PressGestureHandler.js",
+      "sha1": "3062c5c9cb1b5a8fd321adec1f84f9b46eedf6d0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/commonjs/web_hammer/PressGestureHandler.js.map",
+      "sha1": "cec20e55188868b509b99184faba79ec8891225e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/ActionType.d.ts",
+      "sha1": "d96f4dff4a76b30f597a40ef0a0d334ed79cb212"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/DrawerLayout.d.ts",
+      "sha1": "db5ed6b24d93c351f782e7b21b142f2ecbb7d75d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/GestureButtons.d.ts",
+      "sha1": "a0cfb0bbce2436d60449c18c0c24795293940f5c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/GestureComponents.d.ts",
+      "sha1": "5646a53bf3725070ad95b46262fcdec7f1696457"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/GestureComponents.web.d.ts",
+      "sha1": "82c907247e19bbb9d0e2096c663ca85350b94808"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/GestureHandlerButton.d.ts",
+      "sha1": "d424e1b6aa7a107a53455e69b9e395b192e69361"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/GestureHandlerButton.web.d.ts",
+      "sha1": "76f87dda03a5cbc7be1a89c82a2f66a0562f73f2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/Swipeable.d.ts",
+      "sha1": "bbcc81afc6d8ba47f6aef6ea8d63e6a8b0a2077a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/touchables/GenericTouchable.d.ts",
+      "sha1": "6b8681c1a6f1cffa1d2ba2574541e89d2db9c5e2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/touchables/index.d.ts",
+      "sha1": "6c067defaa622d8a17dc136ad6a43d1330d42666"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/touchables/TouchableHighlight.d.ts",
+      "sha1": "41201eb0d6f8510e0e4f58e5b6b9b81cf4202e73"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/touchables/TouchableNativeFeedback.android.d.ts",
+      "sha1": "6ae551b045684391b4b6dabd08671d2eff060482"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/touchables/TouchableNativeFeedback.d.ts",
+      "sha1": "927f30ac790b07503f4519e64d7a9deddfd03160"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/touchables/TouchableOpacity.d.ts",
+      "sha1": "8b995909429ecfa6592fe8d9f232ad5736460d9d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/components/touchables/TouchableWithoutFeedback.d.ts",
+      "sha1": "df1afcfe6c35e83aafc1dd75c5ddae23ba779021"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/Directions.d.ts",
+      "sha1": "0f4f33147e5bd8efc0647b27f2b70828b33d2a31"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/EnableExperimentalWebImplementation.d.ts",
+      "sha1": "37117091ad8b8b8954c485607b8f1f173019db80"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/fabric/RNGestureHandlerButtonNativeComponent.d.ts",
+      "sha1": "2f4baf29c246c75caaa972e01959ac58ef2af662"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/fabric/RNGestureHandlerRootViewNativeComponent.d.ts",
+      "sha1": "95868a8890d7b55b493f362a16b555129548fc2d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/gestureHandlerRootHOC.d.ts",
+      "sha1": "6d43883e8a6d171022bb43c49690eeb2e8a521ac"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/GestureHandlerRootView.android.d.ts",
+      "sha1": "06d6729bec7146aa7515a06fb64d32856baa8b38"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/GestureHandlerRootView.d.ts",
+      "sha1": "06d6729bec7146aa7515a06fb64d32856baa8b38"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/GestureHandlerRootView.web.d.ts",
+      "sha1": "06d6729bec7146aa7515a06fb64d32856baa8b38"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/getShadowNodeFromRef.d.ts",
+      "sha1": "6ee5f08d8b335df72b9670fa89aeb2c7f88c51b2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/getShadowNodeFromRef.web.d.ts",
+      "sha1": "f37b4cf2903bd8609c6930ded35d7c59faed4550"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/createHandler.d.ts",
+      "sha1": "f9304e21846eccc6c5a3a9f9ebdd1ddc15bc896e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/createNativeWrapper.d.ts",
+      "sha1": "c7e64ac1de91b78efee1cac5445fd2c08cf6307c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/FlingGestureHandler.d.ts",
+      "sha1": "bbed8bd20b9a2bb3aceb7d1d605a7f3c913dda50"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/ForceTouchGestureHandler.d.ts",
+      "sha1": "57636cf2967181582d7d29691b47d25702166dd6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestureHandlerCommon.d.ts",
+      "sha1": "a3d1e138086ea947eb23fc067628d23c4e332340"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestureHandlerTypesCompat.d.ts",
+      "sha1": "a56dab699fbb6b10f5b52d18f5ec0b6c1607aded"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/eventReceiver.d.ts",
+      "sha1": "4163335db2826bfdc2928eb990af3620931d846f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/flingGesture.d.ts",
+      "sha1": "f5661728e94586db2681719f4f2616289b16acfb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/forceTouchGesture.d.ts",
+      "sha1": "e603a9c077223df03f5a0c050d56487e20e023e1"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/gesture.d.ts",
+      "sha1": "d7980609d68ff5abd876a2e77cb22d1c742688c3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/gestureComposition.d.ts",
+      "sha1": "579bd55aba646d636445436315d15822aeb958c9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/GestureDetector.d.ts",
+      "sha1": "0fda0497fe210b9a827cfaf38235263b4b3ecd2d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/gestureObjects.d.ts",
+      "sha1": "b8fbd9bfaedd3a45e5052b6a97e26654b72e1513"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/gestureStateManager.d.ts",
+      "sha1": "34c468f923b91edf7026ddd51593ce543ad8fce5"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/gestureStateManager.web.d.ts",
+      "sha1": "81f8d6e3cf9c9bb11fd7bf5fbc32b2bfc6e9142e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/longPressGesture.d.ts",
+      "sha1": "104341e14e9a52545a12781a190405e2f91af712"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/manualGesture.d.ts",
+      "sha1": "2e17ea51a7bd5895948e2bde0c60d32fafc31c40"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/nativeGesture.d.ts",
+      "sha1": "30f8490e04f044051868e0a36e3cbc514d77e53c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/panGesture.d.ts",
+      "sha1": "49687efbfc5bebc36701aa0c6acef9da760e7785"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/pinchGesture.d.ts",
+      "sha1": "b97d582f4315e473d8b199073bca10d7fe70ae0f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/reanimatedWrapper.d.ts",
+      "sha1": "466a97c7c2c4ac15475bed85b68ab1fa789feb5e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/rotationGesture.d.ts",
+      "sha1": "32f50b6142e7e2abad0469e8daa8142e1a3bdf1d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/gestures/tapGesture.d.ts",
+      "sha1": "498513f10c1b264c9ae03e6e440bf1484a6b7ee3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/handlersRegistry.d.ts",
+      "sha1": "fad99f308b005529bab3c1afa5795352e8c9a20f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/LongPressGestureHandler.d.ts",
+      "sha1": "a1bac4247311ba90d6ac2c7457da207e4a420501"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/NativeViewGestureHandler.d.ts",
+      "sha1": "ec21d6cb6c9b80456c29ba449ccca8bcb4de0180"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/PanGestureHandler.d.ts",
+      "sha1": "bc21bff6eba86797a6b3cef53542db3bf02fdb08"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/PinchGestureHandler.d.ts",
+      "sha1": "5489d6e6ace1a84db8605d298994cb8b6336225f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/PressabilityDebugView.d.ts",
+      "sha1": "dcfb4d9bd0408a5091b1fce7aa48e0ee8c357f15"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/PressabilityDebugView.web.d.ts",
+      "sha1": "90f6894b4657648298785e7c5ac020c46e947e4c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/RotationGestureHandler.d.ts",
+      "sha1": "388b5dd7414cd5637eff6ce0be3ce306418a9527"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/handlers/TapGestureHandler.d.ts",
+      "sha1": "b53259be19df1558b6ab076086e9164c4f5ff8dc"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/init.d.ts",
+      "sha1": "c6924607c576e4f1136a8d6a0be5add1156265eb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/jestUtils/jestUtils.d.ts",
+      "sha1": "65efcd59ad1a1504096c7b1ad7540da941801118"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/mocks.d.ts",
+      "sha1": "1736bb10bb14d6614fdd3bb1de94be0d5d75fdba"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/PlatformConstants.d.ts",
+      "sha1": "f74b1e655ca7a10ec8d07d60946b7f03a1ce751c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/PlatformConstants.web.d.ts",
+      "sha1": "d5071aa62fd57b5b251c40e555f1644d80c1d625"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/RNGestureHandlerModule.d.ts",
+      "sha1": "2b215ecd54f8620a027e6c26d483523a58a8218d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/RNGestureHandlerModule.macos.d.ts",
+      "sha1": "d6b8726ded303d52d75008e00c0113a03493b451"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/RNGestureHandlerModule.web.d.ts",
+      "sha1": "c9dea93fec0a7cd3b56edd7fc8914f13bb4ac50c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/RNGestureHandlerModule.windows.d.ts",
+      "sha1": "920ca8efee87a0ccb7a71ef283aa8e3d669700e8"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/RNRenderer.d.ts",
+      "sha1": "3d4f92f0973dead3ed70cea1b530eedfbcbf4982"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/RNRenderer.web.d.ts",
+      "sha1": "6d0ff7daaa3af29431f748c694d035973b1e4c2c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/State.d.ts",
+      "sha1": "fb3471f945c7c966526e498c193200fa10d28756"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/TouchEventType.d.ts",
+      "sha1": "6ccb7b06a59a4c3c3034e0cb5f8b017db9a4868b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/typeUtils.d.ts",
+      "sha1": "fe4c82f63828ef09a04d8199784720173b598aa2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/utils.d.ts",
+      "sha1": "d15af3dc45a4d4b490fa0207dc70767643e2dc54"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/constants.d.ts",
+      "sha1": "02863e105e7e95f093ad0b55b6c6f1fd3dc642ff"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/detectors/RotationGestureDetector.d.ts",
+      "sha1": "a4e25401ba6b4eec6241cd0d27faaf11b6b253e5"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/detectors/ScaleGestureDetector.d.ts",
+      "sha1": "93bb5bb3efead730eedfa2bb4d16cb9a2e157519"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/handlers/GestureHandler.d.ts",
+      "sha1": "c11f6baef19c84a2a62e8ca012a094244a912eb4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/handlers/ManualGestureHandler.d.ts",
+      "sha1": "20a5932d45fc9ca4b8aa2393aff006a194014237"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/interfaces.d.ts",
+      "sha1": "6d66bc7d80b91d93fdb95b074dc86bc6847543fa"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/tools/EventManager.d.ts",
+      "sha1": "b8fd3d279a4dffd1fe96f3c708bb155d377fec75"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/tools/GestureHandlerOrchestrator.d.ts",
+      "sha1": "3e614957c2d34524b942ff4a1698d6ac761cdd64"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/tools/InteractionManager.d.ts",
+      "sha1": "91eef5e3382c05083e5a5c200d47366e84a414d2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/tools/NodeManager.d.ts",
+      "sha1": "38d5c9132193e0db07e96a6b26744ab21f8ff53d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/tools/PointerEventManager.d.ts",
+      "sha1": "2596b6b21761dd9fbb82933677c779315b41ff33"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/tools/PointerTracker.d.ts",
+      "sha1": "4e628afbcf88d0afe49b7786872154b5cb633e20"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web/tools/TouchEventManager.d.ts",
+      "sha1": "52107f9611722d0bd0c920c6083a3588f7e1acc2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web_hammer/DiscreteGestureHandler.d.ts",
+      "sha1": "c0e61b085d09307927257eceffd2f638550e4dd3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web_hammer/DraggingGestureHandler.d.ts",
+      "sha1": "23cfc54dfc7a1db4cd88e16bb8f0c6a37be195e1"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web_hammer/Errors.d.ts",
+      "sha1": "9181dfadb0ff0b85d2c83fa0414e1b884ca44936"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web_hammer/IndiscreteGestureHandler.d.ts",
+      "sha1": "8c0532035acdbd09da5ca5b3392c88c8df7de363"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/lib/typescript/web_hammer/PressGestureHandler.d.ts",
+      "sha1": "4881064b1f3ce122c141d9e4b4859b0e51a1be40"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/LICENSE",
+      "sha1": "80babebbc17a402aa4b2ee52440a5bf09deef92b"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/node_modules/.bin/react-native",
+      "sha1": "ae000a51da10fe958fd077b06a8956483c711d91"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/node_modules/.bin/react-native.cmd",
+      "sha1": "525a0eb5bcf64fdc86c18c6c4af1d53777cbb163"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/README.md",
+      "sha1": "aa7d1941c3a339a7a5a3152999457903d23dbfd9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/RNGestureHandler.podspec",
+      "sha1": "8fd8ea79b9d1bf2d852f757e4b67ad5bf74aff32"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/ActionType.ts",
+      "sha1": "31ca7b343385c37dc8c2c4cc3fe8bb583b70a679"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/DrawerLayout.tsx",
+      "sha1": "c8e96cb6f4b95b5fbb21f9f5ecf65c35655fc1c0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/GestureButtons.tsx",
+      "sha1": "55f57f3cf53512f19bc512bcc7d548d4766c2a88"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/GestureComponents.tsx",
+      "sha1": "0323194bc3ba81dae85145433349a5c79dbe3068"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/GestureComponents.web.tsx",
+      "sha1": "1556fa71e13c0bef01d4d2db08ef14f59303ed28"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/GestureHandlerButton.tsx",
+      "sha1": "b308a2d765efec201eacd53e360d3db90c9faef1"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/GestureHandlerButton.web.tsx",
+      "sha1": "f6aa3e5191604cebac55aee3f3d233272cf37ccc"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/Swipeable.tsx",
+      "sha1": "7f95925eed84e2133ef805883da8fcad05d9ee32"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/touchables/GenericTouchable.tsx",
+      "sha1": "59fcd1672a01b9a0887851384e14ed24dba98998"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/touchables/index.ts",
+      "sha1": "6c067defaa622d8a17dc136ad6a43d1330d42666"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/touchables/TouchableHighlight.tsx",
+      "sha1": "22ab24bea1d90c870e4ef3f865d5ab7d1552c6b0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/touchables/TouchableNativeFeedback.android.tsx",
+      "sha1": "246e2c99da68f5eb5343287920aec685770b4d46"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/touchables/TouchableNativeFeedback.tsx",
+      "sha1": "e58e0f28ccbd7f829cd32123c21c259e4502b21e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/touchables/TouchableOpacity.tsx",
+      "sha1": "ffb96891e28ebab1a5fdd9d4ec8552941d3548dc"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/components/touchables/TouchableWithoutFeedback.tsx",
+      "sha1": "24df888db59028d1fa7e48b4eb1592350e602476"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/Directions.ts",
+      "sha1": "18e8e555bb5d08394c5b85e082b9eddccd20e64a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/EnableExperimentalWebImplementation.ts",
+      "sha1": "e23254971e6c79fbf6b37f799109be06b9124df0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/fabric/RNGestureHandlerButtonNativeComponent.ts",
+      "sha1": "2e9061527c2f4c84458590c6cb2ce8d62bfcb2a0"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/fabric/RNGestureHandlerRootViewNativeComponent.ts",
+      "sha1": "501cf48de33ad3fbd932a5e5fe43bb51fe60122a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/gestureHandlerRootHOC.tsx",
+      "sha1": "e3d0bd5a450e5aab96847e5c6c001ed1496bba5a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/GestureHandlerRootView.android.tsx",
+      "sha1": "846d953e8311bf1d2131549b507d0baf67d0906c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/GestureHandlerRootView.tsx",
+      "sha1": "d310d0b13c4776e85016d5c46cde44ea305aeeac"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/GestureHandlerRootView.web.tsx",
+      "sha1": "b432ff583d0c16ad4a85259d81f13c6ceb82809a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/getShadowNodeFromRef.ts",
+      "sha1": "56475e3c3cb50d39d5a351cac0e6fe1c33a44d18"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/getShadowNodeFromRef.web.ts",
+      "sha1": "52cd89827e1fe0ef03e40f71867845ba06f2c353"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/createHandler.tsx",
+      "sha1": "c20f2a31a8bd121f71a5800477e53ae893e3ec1a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/createNativeWrapper.tsx",
+      "sha1": "b0e50b751d5ed5afddd979a2e140800c5de8cdec"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/FlingGestureHandler.ts",
+      "sha1": "9da84e7ea78a1ab07969890736b00d88f96433a5"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/ForceTouchGestureHandler.ts",
+      "sha1": "f58eecba345d9d38b0ed9bc02966c72cdf59a7a9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestureHandlerCommon.ts",
+      "sha1": "ea565a72d930bf5a6148669e75ee2f014c4dd464"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestureHandlerTypesCompat.ts",
+      "sha1": "69c6087d91ffe293056fb8b0c4afee45cb2d377e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/eventReceiver.ts",
+      "sha1": "b003e4fedc9873e9f8138477beef41ca0206be4a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/flingGesture.ts",
+      "sha1": "26976c4fcc0ea1c4c954ea5a35939ad9d7441f07"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/forceTouchGesture.ts",
+      "sha1": "7dfae8da46a0d8488d224ec35b7991a6fd80836f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/gesture.ts",
+      "sha1": "5d9fd79fa33156ad4b4c801c4b86283cbc1b2fd5"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/gestureComposition.ts",
+      "sha1": "90f6a2e351b6b52a2a08b5da0543a3274bf4b869"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/GestureDetector.tsx",
+      "sha1": "d7f9b23e768bf7cbcfedde51a892a2464bc3d0c9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/gestureObjects.ts",
+      "sha1": "34d16ba1031e523b9bc2c0f6a8cb219532d69a99"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/gestureStateManager.ts",
+      "sha1": "7e445decf60451a98daf7d30db6036275195e682"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/gestureStateManager.web.ts",
+      "sha1": "7a49b4a1c7acd4a7a5a7c963640355b090a27a41"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/longPressGesture.ts",
+      "sha1": "fce2180662cce35903a4ca9728376b845b5763d4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/manualGesture.ts",
+      "sha1": "b0ad447d08d47762bfd0c54ac4b44fae97e609ed"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/nativeGesture.ts",
+      "sha1": "2668d8181e5fb8b94f63cc89931f4d5b6184076e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/panGesture.ts",
+      "sha1": "3cc64f7896a3c1d8f864fad226eb2bb7d513d3f3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/pinchGesture.ts",
+      "sha1": "5598159e0f63362b015ca1c233abe731eb6a5788"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/reanimatedWrapper.ts",
+      "sha1": "ba1c93b3ccaf03afc9b9c3544580a1f2f03136d2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/rotationGesture.ts",
+      "sha1": "2feed8e67bc6c76c8fe19badb8a23443fc251a72"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/gestures/tapGesture.ts",
+      "sha1": "5b07bbd4fb5c697c220fbfea3a6183e491ce8932"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/handlersRegistry.ts",
+      "sha1": "c852bf10ad905413a2f1c30bd5097678ea14bc2e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/LongPressGestureHandler.ts",
+      "sha1": "f2e1eee973ec1e492a94e9cd20f3159732a48f1d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/NativeViewGestureHandler.ts",
+      "sha1": "41ee0a981aaf8f60a6761bc82fc578db4f0e7f03"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/PanGestureHandler.ts",
+      "sha1": "9f0233c0a179381c247bc552a69588230a6d72be"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/PinchGestureHandler.ts",
+      "sha1": "0198f1d05b96c2e5bef27b92f4437c518c2b3691"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/PressabilityDebugView.tsx",
+      "sha1": "9af91a4d5f475f0e1578db6ac906ebef45d91495"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/PressabilityDebugView.web.tsx",
+      "sha1": "dc96ea6c8bb3e14abfaa7880011726a2ab8fec3a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/RotationGestureHandler.ts",
+      "sha1": "8abdb8d9905450a2a8821681213468679cd9836c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/handlers/TapGestureHandler.ts",
+      "sha1": "8e64bebed948f4c12a52ed3318c409cde66bd49a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/init.ts",
+      "sha1": "6b97d6980a838868e27095e256f7f2a7747ef143"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/jestUtils/jestUtils.ts",
+      "sha1": "e786bc5ee99e89033bc136ce6d07e91dce6f56e6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/mocks.ts",
+      "sha1": "45ef6c1c86230abbdc7294ec405c5cc9bd22f228"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/PlatformConstants.ts",
+      "sha1": "f26e6265c91b97091860aea55f53a67399712ce4"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/PlatformConstants.web.ts",
+      "sha1": "e0e12d5aa8c08f1a8ea8e1d8ae837c07038b26d9"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/RNGestureHandlerModule.macos.ts",
+      "sha1": "ba92b23e0be04a0f2c9c643005b9b08bf3c6b7f3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/RNGestureHandlerModule.ts",
+      "sha1": "09750c6a2d4d321b517ebdbe8c9f4a3833599998"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/RNGestureHandlerModule.web.ts",
+      "sha1": "4239e751a51af73bc59250a4b783fddc4d63c938"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/RNGestureHandlerModule.windows.ts",
+      "sha1": "6dbefac7ac4c54ed3d9a112c6f6b63ae56b92a45"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/RNRenderer.ts",
+      "sha1": "022b6dedec26b04fe7c0902808830119b39ee8ed"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/RNRenderer.web.ts",
+      "sha1": "2d5a745c9e61fbb123e35b3ddae4fc3903b06cb6"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/State.ts",
+      "sha1": "b57422d35350fcf8955a85e114c4f192e8a3dbfb"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/TouchEventType.ts",
+      "sha1": "505958f13513a744a8c57622011d729bb89c6bdc"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/typeUtils.ts",
+      "sha1": "3349d3483aab15a4d2faf3f31fd3a96f1a7e2d88"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/utils.ts",
+      "sha1": "eecc770f83919c0bf8bd29e5a255d76ec613daef"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/constants.ts",
+      "sha1": "78c7c41619ee39b292da16d30ad181e772659c6a"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/detectors/RotationGestureDetector.ts",
+      "sha1": "a0a36af365b796350484420eacb8302fadcd3933"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/detectors/ScaleGestureDetector.ts",
+      "sha1": "3bd2e289d6376b47c5d8d872f5ed4d8fe46c5a1e"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/handlers/GestureHandler.ts",
+      "sha1": "3ed92ff2c27bb8e07da605b9aece2014ff4bbe83"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/handlers/ManualGestureHandler.ts",
+      "sha1": "31a02d0d1d207983ba5fad14bb2a1c0426439681"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/interfaces.ts",
+      "sha1": "55d9358b02d8ba730a3fac5bd633940ca703d61c"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/tools/EventManager.ts",
+      "sha1": "3621c04e90d2300ceecd65db083ff7a8ef1acd38"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/tools/GestureHandlerOrchestrator.ts",
+      "sha1": "53840fd2cac84417ab93b4cbc161b87d93c22364"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/tools/InteractionManager.ts",
+      "sha1": "82d24419a7496d7043f52575d9df3f2b450f3e1d"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/tools/NodeManager.ts",
+      "sha1": "99d415e898338b00f87567224d7d938f3e4bebbc"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/tools/PointerEventManager.ts",
+      "sha1": "15006085fbb733802521279d36f3a41919914a22"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/tools/PointerTracker.ts",
+      "sha1": "03d1ae3b04ef2fa0a0f4c0ed96f777737967d9d2"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web/tools/TouchEventManager.ts",
+      "sha1": "d868d5c26587552cdc76a65cc92b8a1f755d2bc3"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web_hammer/DiscreteGestureHandler.ts",
+      "sha1": "2d3deff2a5a159116e4006172cf7e985dac0e82f"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web_hammer/DraggingGestureHandler.ts",
+      "sha1": "1138f6d164e10149c064c7036c153848d40d1d22"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web_hammer/Errors.ts",
+      "sha1": "7cceaaa57049ad1f9001478c56047e63581dbfa1"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web_hammer/IndiscreteGestureHandler.ts",
+      "sha1": "67b3cb7d2204ed5ac663bc926eeaf5db633f4951"
+    },
+    {
+      "path": "node_modules/react-native-gesture-handler/src/web_hammer/PressGestureHandler.ts",
+      "sha1": "c364a642bbb473aeeb462cf5fc956f11a210386c"
+    }
+  ]
+}
